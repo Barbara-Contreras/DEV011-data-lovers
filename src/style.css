@@ -1,0 +1,16 @@
+body {
+    background-image: url('Imagen\ 1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header{
+    text-align: center;
+}
+img {
+    text-align: center;
+    width: 1200px;
+    height: 300px;
+}
+footer{
+    text-align: end;
+}
